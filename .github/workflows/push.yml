@@ -17,3 +17,4 @@ jobs:
           echo "Branch: $GITHUB_REF"
           echo "Commit SHA: $GITHUB_SHA"
           echo "Triggered by: $GITHUB_ACTOR"
+		  echo "Charlie is King"
